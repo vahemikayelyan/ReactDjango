@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DjangoUnresolvedFilterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="ng-click" />
+            <item index="1" class="java.lang.String" itemvalue="src" />
+            <item index="2" class="java.lang.String" itemvalue="ng-mousedown" />
+            <item index="3" class="java.lang.String" itemvalue="index" />
+            <item index="4" class="java.lang.String" itemvalue="ng-draggable" />
+            <item index="5" class="java.lang.String" itemvalue="lastindex" />
+            <item index="6" class="java.lang.String" itemvalue="datepicker-options" />
+            <item index="7" class="java.lang.String" itemvalue="datepicker-append-to-body" />
+            <item index="8" class="java.lang.String" itemvalue="show-button-bar" />
+            <item index="9" class="java.lang.String" itemvalue="is-open" />
+            <item index="10" class="java.lang.String" itemvalue="ng-disabled" />
+            <item index="11" class="java.lang.String" itemvalue="width" />
+            <item index="12" class="java.lang.String" itemvalue="ng-width" />
+            <item index="13" class="java.lang.String" itemvalue="ng-app" />
+            <item index="14" class="java.lang.String" itemvalue="min-date" />
+            <item index="15" class="java.lang.String" itemvalue="ng-keyup" />
+            <item index="16" class="java.lang.String" itemvalue="ng-src" />
+            <item index="17" class="java.lang.String" itemvalue="is-draggable" />
+            <item index="18" class="java.lang.String" itemvalue="time-zone" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="appointment-modal" />
+            <item index="7" class="java.lang.String" itemvalue="service-modal" />
+            <item index="8" class="java.lang.String" itemvalue="working-hours-modal" />
+            <item index="9" class="java.lang.String" itemvalue="actions-popover" />
+            <item index="10" class="java.lang.String" itemvalue="busy-time-modal" />
+            <item index="11" class="java.lang.String" itemvalue="class-modal" />
+            <item index="12" class="java.lang.String" itemvalue="forms" />
+            <item index="13" class="java.lang.String" itemvalue="pdf-modal" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="datetime.timedelta.*" />
+          <option value="bool.hour" />
+          <option value="bool.minute" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
